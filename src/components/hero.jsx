@@ -1,6 +1,6 @@
 import React from "react";
 
-const Main = () =>{
+const Hero = () =>{
     return(
         <div className="flex m-8">
       {/* LEFT SIDE MAIN */}
@@ -45,7 +45,7 @@ const Main = () =>{
 )
 }
 
-export default Main
+export default Hero
 
 {/* <div className="absolute inset-0 flex items-center justify-center text-white p-4">
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur, rerum ut quae porro, neque sed 

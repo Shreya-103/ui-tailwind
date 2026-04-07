@@ -1,12 +1,12 @@
 import React from "react";
 import Nav from "./components/navbar";
-import Main from "./components/main";
+import Hero from "./components/hero";
 
 const App = ()=>{
   return(
     <div className="w-screen">
       <Nav/>
-      <Main/>
+      <Hero/>
     </div>
   )
 }
