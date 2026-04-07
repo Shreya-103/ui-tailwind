@@ -5,9 +5,9 @@ const Hero = () =>{
         <div className="flex m-8">
       {/* LEFT SIDE MAIN */}
       <div className="flex flex-col self-start w-1/2 sm:w-1/3 mt-4">
-        <h2 className="text-black text-6xl font-bold">Prospective</h2>
-        <h2 className="text-black text-6xl font-bold">customer</h2>
-        <h2 className="text-black text-6xl font-bold">Segmentation</h2>
+        <h2 className="text-black text-2xl sm:text-6xl font-bold">Prospective</h2>
+        <h2 className="text-black text-2xl sm:text-6xl font-bold">customer</h2>
+        <h2 className="text-black text-2xl sm:text-6xl font-bold">Segmentation</h2>
         <p className=" mt-4 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum pariatur 
           voluptatibus suscipit odio aspernatur expedita explicabo a rerum esse officiis eum, totam, facilis
            provident repellat tenetur reprehenderit nam quae! Vel!</p>
