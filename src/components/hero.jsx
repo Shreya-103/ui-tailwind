@@ -17,11 +17,11 @@ const Hero = () =>{
         <div className="w-full sm:w-1/2 ml-8 sm:ml-16 overflow-x-auto scroll-smooth">
       <div className="flex gap-5">
       {/* <div className="flex-1 relative"> */}
-            <img src="./Screenshot (30).png" alt="imgI" className="h-110 w-65 border-transparent rounded-4xl object-cover flex-shrink-0 relative"/>
+            <img src="./Screenshot (30).png" alt="imgI" className="h-110 w-65 border-transparent rounded-4xl object-cover flex-shrink-0"/>
             
 
         {/* <div className="flex-2 relative"> */}
-            <img src="./Screenshot (69).png" alt="imgII" className="h-110 w-65 border-transparent rounded-4xl object-cover flex-shrink-0 relative"/>
+            <img src="./Screenshot (69).png" alt="imgII" className="h-110 w-65 border-transparent rounded-4xl object-cover flex-shrink-0"/>
             
         {/* <div className="flex-3 relative"> */}
                 <img src="./Screenshot (93).png" alt="imgIII" className="h-110 w-65 border-transparent rounded-4xl object-cover flex-shrink-0"/> 
