@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () =>{
     return(
-        <div className="flex m-8 sm:mr-0">
+        <div className="flex m-1/2 sm:m-8 sm:mr-0">
       {/* LEFT SIDE MAIN */}
       <div className="flex flex-col self-start w-1/2 sm:w-1/3 mt-4">
         <h2 className="text-black text-2xl sm:text-5xl font-bold">Prospective</h2>
